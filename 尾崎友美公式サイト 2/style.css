@@ -185,20 +185,33 @@ body{
 
   .compose {
     text-align: center;
+    border: 1px solid #BAB8BF ;
+    border-radius: 10px;
+    margin: 16px 8px 16px 8px  ;
+
   }
 
   .theory {
     text-align: center;
+    border: 1px solid #BAB8BF ;
+    border-radius: 10px;
+    margin: 16px 8px 16px 8px  ;
 
   }
 
   .solfege {
     text-align: center;
+    border: 1px solid #BAB8BF ;
+    border-radius: 10px;
+    margin: 16px 8px 16px 8px  ;
 
   }
 
   .piano--lesson {
     text-align: center;
+    border: 1px solid #BAB8BF ;
+    border-radius: 10px;
+    margin: 16px 8px 16px 8px  ;
 
   }
 
@@ -225,7 +238,25 @@ body{
 
   }
 
+  .price {
+    text-align: center;
+    margin: 40px 0 40px 0;
+  }
+
   .footer {
     background-color: #B6C8D7;
     text-align: center;
+    padding: 0 0 16px 0 ;
+
   }
+
+  .footer--item {
+    display: inline-flex;
+    margin: 16px 0 0 0;
+  }
+
+  .sitename  p{
+    text-align: center;
+    margin: 16px 0 0 0;
+  }
+
